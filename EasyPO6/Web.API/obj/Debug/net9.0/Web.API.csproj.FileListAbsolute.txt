@@ -41,3 +41,5 @@ C:\Users\DELL\Documents\Tareas de trabajos y cursos\Clean_arquitecture\Poryecto-
 C:\Users\DELL\Documents\Tareas de trabajos y cursos\Clean_arquitecture\Poryecto-CA-NET7\EasyPO6\Web.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\DELL\Documents\Tareas de trabajos y cursos\Clean_arquitecture\Poryecto-CA-NET7\EasyPO6\Web.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\DELL\Documents\Tareas de trabajos y cursos\Clean_arquitecture\Poryecto-CA-NET7\EasyPO6\Web.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DELL\Documents\Tareas de trabajos y cursos\Clean_arquitecture\Poryecto-CA-NET7\EasyPO6\Web.API\bin\Debug\net9.0\MediatR.dll
+C:\Users\DELL\Documents\Tareas de trabajos y cursos\Clean_arquitecture\Poryecto-CA-NET7\EasyPO6\Web.API\bin\Debug\net9.0\MediatR.Contracts.dll

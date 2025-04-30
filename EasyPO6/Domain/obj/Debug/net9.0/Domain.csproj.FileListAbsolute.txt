@@ -10,3 +10,4 @@ C:\Users\DELL\Documents\Tareas de trabajos y cursos\Clean_arquitecture\Poryecto-
 C:\Users\DELL\Documents\Tareas de trabajos y cursos\Clean_arquitecture\Poryecto-CA-NET7\EasyPO6\Domain\obj\Debug\net9.0\refint\Domain.dll
 C:\Users\DELL\Documents\Tareas de trabajos y cursos\Clean_arquitecture\Poryecto-CA-NET7\EasyPO6\Domain\obj\Debug\net9.0\Domain.pdb
 C:\Users\DELL\Documents\Tareas de trabajos y cursos\Clean_arquitecture\Poryecto-CA-NET7\EasyPO6\Domain\obj\Debug\net9.0\ref\Domain.dll
+C:\Users\DELL\Documents\Tareas de trabajos y cursos\Clean_arquitecture\Poryecto-CA-NET7\EasyPO6\Domain\obj\Debug\net9.0\Domain.csproj.AssemblyReference.cache
