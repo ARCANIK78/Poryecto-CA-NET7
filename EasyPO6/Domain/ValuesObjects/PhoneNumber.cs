@@ -1,18 +1,19 @@
-namespace DOmain.ValueObjects;
+using System.Text.RegularExpressions;
+namespace Domain.ValuesObjects;
 public partial record PhoneNumber
 {
-    private const int defaultLenght = 9;
+    private const int DefaultLenght = 9;
     private const string Pattern = @"^(?:-*\d-*){8}$";
-    private PhoneNumber(string value)
-    public status PhoneNumber? Create(string value)
+    private PhoneNumber(string value) => Value = value;
+    public static PhoneNumber? Create(string value)
     {
-        if(string.IsNullOrEmpty(value) || !PhonewNumberRegex().IsMatch(value) || value.Length != defaultLenght){
+        if(string.IsNullOrEmpty(value) || !PhoneNumberRegex().IsMatch(value) || value.Length != DefaultLenght){
             return null;
         }
         return new PhoneNumber(value);
     }
-    public string value {get; int}
-    public static partial Regex PhonewNumberRegex();
-    [GeneratedRegex{Pattern}]
-    private static partial Regex PhonewNumberRegex();
+    public string Value { get; init; }
+
+    [GeneratedRegex(Pattern)]
+    private static partial Regex PhoneNumberRegex();
 }
