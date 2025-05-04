@@ -792,8 +792,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "c:\\Users\\DELL\\Documents\\Tareas de trabajos y cursos\\Clean_arquitecture\\Poryecto-CA-NET7\\EasyPO6\\Domain\\Domain.csproj": {
-              "projectPath": "c:\\Users\\DELL\\Documents\\Tareas de trabajos y cursos\\Clean_arquitecture\\Poryecto-CA-NET7\\EasyPO6\\Domain\\Domain.csproj"
+            "C:\\Users\\DELL\\Documents\\Tareas de trabajos y cursos\\Clean_arquitecture\\Poryecto-CA-NET7\\EasyPO6\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\DELL\\Documents\\Tareas de trabajos y cursos\\Clean_arquitecture\\Poryecto-CA-NET7\\EasyPO6\\Domain\\Domain.csproj"
             }
           }
         }
